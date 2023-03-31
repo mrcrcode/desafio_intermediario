@@ -1,0 +1,62 @@
+body{
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+  margin: 0;
+  min-width: 100vh;
+}
+#logo{
+  width: 350px;
+  margin: 0 auto 64px;
+}
+h1{
+  color: #3F3D56;
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  text-align: center;
+  font-weight: 500 ;
+}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500 ;
+  color: #828282;
+  text-align: center;
+  
+}
+a{
+  text-decoration: none;
+}
+a, #footer{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  font-size: 15px;
+  color: #3F3D56;
+}
+strong{
+  color: #3F3D56;
+  
+}
+span{
+  color: #EE24FF;
+}
+.line{
+  
+width: 391px;
+height: 0px;
+margin: 0 auto 8px;
+
+
+border: 1px solid #ECEFF2;
+}
+#footer a+a{
+  margin-left: 22.15px;
+}
+
+#wave{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  right: 0px;
+ 
+}
+
